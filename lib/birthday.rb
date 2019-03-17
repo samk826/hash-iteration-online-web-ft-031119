@@ -20,5 +20,3 @@ def age_appropriate_birthday
   end
 
 end
-
-end
