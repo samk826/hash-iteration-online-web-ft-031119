@@ -17,7 +17,6 @@ def age_appropriate_birthday(birthday_hash)
   else age =>12
     puts "You are too old for this.""
 
-  end
 end
 end
 end
